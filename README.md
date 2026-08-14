@@ -141,3 +141,8 @@ Guess the hidden word in 6 tries. A new puzzle is available each day.
 Each day a new architectural project to guess from the images!
 
 ![ArchiGuesser](img/archiguesser.png)
+## [WordleLike](https://wordlelike.com/)
+
+A free hub of **5 daily games like Wordle** — classic Wordle, Word Hurdle (6-letter), Mini Crossword, Word Search and Anagram Solver. No sign-up, fresh puzzles every 24 hours.
+
+![WordleLike](img/wordlelike.png)
